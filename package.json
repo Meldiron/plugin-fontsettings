@@ -1,5 +1,5 @@
 {
-  "name": "gitbook-plugin-fontsettings",
+  "name": "gitbook-plugin-mel-fontsettings",
   "description": "Fonts and colors themes settings the website for a better reading experience",
   "main": "index.js",
   "version": "2.0.0",
